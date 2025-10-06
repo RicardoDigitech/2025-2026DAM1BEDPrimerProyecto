@@ -19,7 +19,12 @@ namespace _2025_2026_DAM_1B_ED_Primer_Proyecto
 
         private void btnHola_Click(object sender, EventArgs e)
         {
-            
+
+        }
+
+        private void btnHola_MouseEnter(object sender, EventArgs e)
+        {
+            btnHola.Location = new Point(100, 100);
         }
     }
 }
