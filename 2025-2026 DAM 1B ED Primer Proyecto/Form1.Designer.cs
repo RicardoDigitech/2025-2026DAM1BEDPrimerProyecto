@@ -33,7 +33,7 @@
             // 
             // btnHola
             // 
-            this.btnHola.Location = new System.Drawing.Point(12, 12);
+            this.btnHola.Location = new System.Drawing.Point(12, 415);
             this.btnHola.Name = "btnHola";
             this.btnHola.Size = new System.Drawing.Size(75, 23);
             this.btnHola.TabIndex = 0;
